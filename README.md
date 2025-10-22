@@ -1,4 +1,4 @@
-# ⚡ UPI QR Code Generator for VS Code
+# ⚡ UPI QR Code Generator for VS Code by
 
 यह extension आपको Visual Studio Code के भीतर से ही तुरंत **UPI (Unified Payments Interface) QR Code** generate करने में मदद करता है। किसी third-party website पर जाने की ज़रूरत नहीं—सिर्फ अपनी UPI ID और Amount डालें, और QR Code आपके सामने!
 
